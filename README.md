@@ -8,3 +8,6 @@ Users will have to first open the application and then they will enter the home 
 
 
 https://snack.expo.dev/@soumilidey0702/lgbtq-app
+
+
+By Soumili Dey
