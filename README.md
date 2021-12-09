@@ -1,6 +1,5 @@
 THE LGBTQ+ APP
 
-
 This app will help the LGBTQ community to spread awareness and raise funds through donations.
 
 
